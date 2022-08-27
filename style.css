@@ -14,5 +14,5 @@ button{
     color: #fff;
     border: none;
     outline: none;
-    border: 1em;
+    border-radius: 1em;
 }
