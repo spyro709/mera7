@@ -9,7 +9,10 @@ body{
     height: 100vh;
 }
 button{
-    padding: 1rem;
-    background: blue;
-    
+    padding: 1em;
+    background: #0a84ff;
+    color: #fff;
+    border: none;
+    outline: none;
+    border: 1em;
 }
